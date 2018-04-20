@@ -7,4 +7,4 @@ Literature:
 
 ----------------------------------------
 
-Analysis of the 2016--2018 data for the upcoming manuscript is available here: https://github.com/dkobak/elections/blob/master/elections2018.ipynb
+Analysis of the 2016--2018 data for the upcoming manuscript is available here: [elections2018.ipynb](https://github.com/dkobak/elections/blob/master/elections2018.ipynb)
