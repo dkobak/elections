@@ -63,7 +63,7 @@ This is likely due to election results being later canceled at several polling s
 
 ### Parliamentary election 2021
 
-96,105 polling stations, 108,272,856 registered voters. The data are preliminary: the sums do not yet fully agree with LINK??
+96,325 polling stations, 109,204,662 registered voters. The sums agree with [http://www.vybory.izbirkom.ru](http://www.vybory.izbirkom.ru/region/region/izbirkom?action=show&root=0&tvd=100100225883177&vrn=100100225883172&region=0&global=&sub_region=0&prver=0&pronetvd=null&vibid=100100225883177&type=233).
 
 
 
