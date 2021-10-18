@@ -7,7 +7,7 @@ This folder contains raw election data for all Russian federal elections from 20
 
 ### Presidential election 2000
 
-91,333 polling stations, 105,635,786 registered voters. There are no data for 104 constituencies encompassing 2,930,483 registered voters, as well as for all polling stations located outside of the country. See IZBIRKOM-LINK???
+91,333 polling stations, 105,635,786 registered voters. There are no polling-station-level data for 104 constituencies (all constituencies in Chechnya and Yakutia, as well as some in other regions) encompassing 2,930,483 registered voters, as well as for all polling stations located outside of the country. Constituency-level data for missing constituencies can be found [here](https://drive.google.com/file/d/0ByFMnUnpIlriYWZpMHdYRXgySXc/view). Together, the sums agree with [http://www.vybory.izbirkom.ru](http://www.vybory.izbirkom.ru/region/izbirkom?action=show&vrn=10010001189753&type=227).
 
 
 ### Parliamentary election 2003
@@ -53,13 +53,12 @@ This is likely due to election results being later canceled at several polling s
 
 ### Presidential election 2018
 
-97,699 polling stations, 109,008,428 registered voters. Note: the sums do not fully agree with [http://www.vybory.izbirkom.ru](http://www.vybory.izbirkom.ru/region/region/izbirkom?action=show&root=1&tvd=100100084849066&vrn=100100084849062&region=0&global=1&sub_region=0&prver=0&pronetvd=null&vibid=100100084849066&type=227) that lists 109,001,306 registered voters.
+97,699 polling stations, 109,008,428 registered voters. Note: the sums do not fully agree with [http://www.vybory.izbirkom.ru](http://www.vybory.izbirkom.ru/region/region/izbirkom?action=show&root=1&tvd=100100084849066&vrn=100100084849062&region=0&global=1&sub_region=0&prver=0&pronetvd=null&vibid=100100084849066&type=227) that lists 109,001,306 registered voters because the results on four polling stations have later been canceled.
 
 
 ### Constitutional referendum 2020
 
-96,765 polling stations, 107,999,611 registered voters. The sums agree with LINK?? -- DO THEY AGREE??
-
+96,765 polling stations, 107,999,611 registered voters. The sums agree with [http://www.vybory.izbirkom.ru](http://www.vybory.izbirkom.ru/region/izbirkom?action=show&vrn=100100163596966&type=465).
 
 ### Parliamentary election 2021
 
