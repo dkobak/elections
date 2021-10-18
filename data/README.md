@@ -58,11 +58,12 @@ This is likely due to election results being later canceled at several polling s
 
 ### Constitutional referendum 2020
 
-96,765 polling stations, 107,999,611 registered voters. The sums agree with [http://www.vybory.izbirkom.ru](http://www.vybory.izbirkom.ru/region/izbirkom?action=show&vrn=100100163596966&type=465).
+96,765 polling stations, 107,999,611 registered voters. The table does not include two pseudo-stations containing results of electronic voting (one in Moscow with 1,051,155 registered voters, and one in Nizhny Novgorod Oblast with 139,571 registered voters). Taking those into account, the sums agree with [http://www.vybory.izbirkom.ru](http://www.vybory.izbirkom.ru/region/izbirkom?action=show&vrn=100100163596966&type=465) listing 109,190,337 registered voters.
+
 
 ### Parliamentary election 2021
 
-96,325 polling stations, 109,204,662 registered voters. The sums agree with [http://www.vybory.izbirkom.ru](http://www.vybory.izbirkom.ru/region/region/izbirkom?action=show&root=0&tvd=100100225883177&vrn=100100225883172&region=0&global=&sub_region=0&prver=0&pronetvd=null&vibid=100100225883177&type=233).
+96,325 polling stations, 109,204,662 registered voters. The table contains electorinic voting results as well. The sums agree with [http://www.vybory.izbirkom.ru](http://www.vybory.izbirkom.ru/region/region/izbirkom?action=show&root=0&tvd=100100225883177&vrn=100100225883172&region=0&global=&sub_region=0&prver=0&pronetvd=null&vibid=100100225883177&type=233).
 
 
 
