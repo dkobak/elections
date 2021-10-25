@@ -53,7 +53,7 @@ This is likely due to election results being later canceled at several polling s
 
 ### Presidential election 2018
 
-97,699 polling stations, 109,008,428 registered voters. Note: the sums do not fully agree with [http://www.vybory.izbirkom.ru](http://www.vybory.izbirkom.ru/region/region/izbirkom?action=show&root=1&tvd=100100084849066&vrn=100100084849062&region=0&global=1&sub_region=0&prver=0&pronetvd=null&vibid=100100084849066&type=227) that lists 109,001,306 registered voters because the results on four polling stations have later been canceled.
+97,699 polling stations, 109,008,428 registered voters. Note: the sums do not fully agree with [http://www.vybory.izbirkom.ru](http://www.vybory.izbirkom.ru/region/region/izbirkom?action=show&root=1&tvd=100100084849066&vrn=100100084849062&region=0&global=1&sub_region=0&prver=0&pronetvd=null&vibid=100100084849066&type=227) that lists 109,001,306 registered voters because the results on four polling stations have later been canceled (stations corresponding to rows 45559, 45563, 92554, 92561 in the CSV file, assuming header is row 1).
 
 
 ### Constitutional referendum 2020
