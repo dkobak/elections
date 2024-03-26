@@ -1,6 +1,6 @@
 # Statistical anomalies in Russian elections
 
-Raw election data for all Russian federal elections from 2000 to 2020 can be found in `data/`. Data scraped by Sergey Shpilkin.
+Raw election data for all Russian federal elections from 2000 to 2024 can be found in `data/`. Data scraped by Sergey Shpilkin (2000--2021) and by Ivan Shukshin (2024).
 
 ![Integer peaks](cover.png)
 
@@ -16,3 +16,5 @@ Analysis for the Significance 2018 paper is available in [significance2018/elect
 Analysis for the Significance 2020 paper is available in [significance2020/referendum2020.ipynb](https://github.com/dkobak/elections/blob/master/significance2020/referendum2020.ipynb).
 
 Analysis for the [2018 Meduza article](https://meduza.io/feature/2018/07/03/tak-skolko-golosov-ukrali-na-prezidentskih-vyborah-sotni-tysyach-ili-milliony) with criticism of Kirill Kalinin's and Walter Mebane's work is available in [meduza2018/meduza.ipynb](https://github.com/dkobak/elections/blob/master/meduza2018/meduza.ipynb).
+
+See also unpublished analysis of the post-2020 voting in the `analysis/` folder.
