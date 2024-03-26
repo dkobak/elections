@@ -1,6 +1,6 @@
 # Polling station data for Russian federal elections
 
-This folder contains raw election data for all Russian federal elections from 2000 onwards. Data scraped by Sergey Shpilkin.
+This folder contains raw election data for all Russian federal elections from 2000 onwards. Data scraped by Sergey Shpilkin (until 2021) and by Ivan Shukshin (2024).
 
 
 ## Notes
@@ -66,4 +66,6 @@ This is likely due to election results being later canceled at several polling s
 96,325 polling stations, 109,204,662 registered voters. The table contains electorinic voting results as well. The sums agree with [http://www.vybory.izbirkom.ru](http://www.vybory.izbirkom.ru/region/region/izbirkom?action=show&root=0&tvd=100100225883177&vrn=100100225883172&region=0&global=&sub_region=0&prver=0&pronetvd=null&vibid=100100225883177&type=233).
 
 
+### Presidential election 2024
 
+The table contains 94,214 polling stations. 2,268 polling stations in four annexed Ukrainian regions (Донецкая Народная Республика, Запорожская область, Луганская Народная Республика, Херсонская область) do not have any data: polling-station data for these regions have not been released. 7 polling stations collected no ballots and show zero registered voters. Thus the table contains data for 91,939 polling stations with 99,764,974 registered voters. Additionally, `2024-electronic-voting.csv` gives the results of electronic voting, aggregated by region. It has 8,434,406 registered voters.
