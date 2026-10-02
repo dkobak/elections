@@ -1,6 +1,6 @@
 # Statistical anomalies in Russian elections
 
-Raw election data for all Russian federal elections from 2000 to 2024 can be found in `data/`. Data scraped by Sergey Shpilkin (2000--2021) and by Ivan Shukshin (2024).
+Raw election data for all Russian federal elections from 2000 to 2026 can be found in `data/`. Data scraped by Sergey Shpilkin (2000--2021), Ivan Shukshin (2024), and Petr Zhizhin (2026).
 
 ![Integer peaks](cover.png)
 

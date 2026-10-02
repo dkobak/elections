@@ -69,3 +69,7 @@ This is likely due to election results being later canceled at several polling s
 ### Presidential election 2024
 
 The table contains 94,214 polling stations. 2,268 polling stations in four annexed Ukrainian regions (Донецкая Народная Республика, Запорожская область, Луганская Народная Республика, Херсонская область) do not have any data: polling-station data for these regions have not been released. 7 polling stations collected no ballots and show zero registered voters. Thus the table contains data for 91,939 polling stations with 99,764,974 registered voters. Additionally, `2024-electronic-voting.csv` gives the results of electronic voting, aggregated by region. It has 8,434,406 registered voters.
+
+### Parliamentary election 2026
+
+The table contains 89,132 polling stations (including 41 empty ones) and 100,963,451 registered voters. There are no data for the four annexed Ukranian regions listed above. Electronic voting data are not provided here. Data source: https://neshodilina.netlify.app/api. See there for electronic voting.
